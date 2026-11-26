@@ -1,0 +1,8 @@
+# Build outputs
+/monitor
+*.o
+# Editor and OS files
+.vscode/
+.idea/
+*~
+.DS_Store
